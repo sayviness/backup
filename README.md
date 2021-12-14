@@ -7,3 +7,4 @@
 | tampermonkey.txt       | 油猴      | 2021年12月14日 |
 | app.asar       | Typora授权文件      | 2021年12月14日 |
 | rarreg.key       | Winrar授权文件      | 2021年12月14日 |
+| favorites.html      |Edge书签     | 2021年12月14日 |
